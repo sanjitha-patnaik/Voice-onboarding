@@ -1,0 +1,24 @@
+# requirements.txt
+torch>=2.0.0
+transformers>=4.34.0
+accelerate
+bitsandbytes
+sounddevice
+pyaudio
+whisper
+sentence-transformers
+faiss-cpu
+jsonschema
+groq
+phidata
+piper-tts
+sounddevice
+pyaudio
+numpy
+scipy
+python-dotenv
+jsonschema
+fastapi
+uvicorn
+streamlit
+sse-starlette
