@@ -1,0 +1,37 @@
+[
+  {
+    "type": "generic",
+    "question": "If you could have dinner with any person, living or dead, who would it be and why?"
+  },
+  {
+    "type": "generic",
+    "question": "What's something you're weirdly passionate about?"
+  },
+  {
+    "type": "generic",
+    "question": "How do you recharge after a stressful week?"
+  },
+  {
+    "type": "generic",
+    "question": "What’s a belief you once had but completely changed your mind about?"
+  },
+  {
+    "type": "generic",
+    "question": "If your life were a movie, what would the title be?"
+  },
+  {
+    "type": "personalized",
+    "trigger": "mentions travel",
+    "question": "I heard you like traveling — if you could teleport anywhere right now, where would you go and what would you do there?"
+  },
+  {
+    "type": "personalized",
+    "trigger": "mentions pets",
+    "question": "Okay, real talk: are dogs overrated? (Just kidding — tell me about your pet soulmate.)"
+  },
+  {
+    "type": "personalized",
+    "trigger": "mentions work stress",
+    "question": "If your job had a theme song, what would it be? And when are you finally going to quit and open that llama farm?"
+  }
+]
